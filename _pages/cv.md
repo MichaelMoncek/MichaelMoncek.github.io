@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2025 (expected)
+* B.S. in Applied Mathematics, Charles University, 2025 (expected)
 
 Work experience
 ======
@@ -33,11 +33,13 @@ Work experience
 Skills
 ======
 * Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages
+  * Czech - native speaker
+  * English - C2
+  * German - A2
+* Programming languages
+  * Python, Julia
+* Driver license - type B
 
 Publications
 ======
@@ -59,4 +61,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 8 years as a scout leader, organizing summer camps and events for up to 80 people
