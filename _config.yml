@@ -21,7 +21,7 @@ repository               : "michaelmoncek/michaelmoncek.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile photo.jpg"
+  avatar           : "profile photo 1.jpg"
   name             : "Michael Monček"
   pronouns         : # example: "she/her"  
   bio              : "Mathematical modelling"

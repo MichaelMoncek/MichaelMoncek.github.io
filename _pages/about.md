@@ -1,12 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Homepage of"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+About me
+My name is Michael Moncek, and I have spent the last couple years of my life studying mathematics and physics, both in my free time and as a part of my formal education. The first spark that led me to explore the beauty and mysteries of this field was ignited when I started participating in a modelling club, constructing working models of planes. Even then, I was fascinated by how mechanics and physics of these models work. Trying out different construction materials and various methods added another dimension to that interest. My passion for my future field was undoubtedly influenced by my love of origami, solving and creating ciphers, and science fitction literature and films.
+Althoug I was interested in many other fields, the scales tipped clearly towards studying mathematics and physics during my time at high school. A significant part of this decision was due to the outstanding profesors I had, that supported me on my journey.
+After graduating from high school, choosing the Faculty of Mathematics and Physics was a clear decision, and I am now in my third year of studying mathematical modelling. I hope to remain dedicated to this field throughout my professional career.
 <!--
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
