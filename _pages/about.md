@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 My name is Michael Moncek, and I have spent the last couple years of my life studying mathematics and physics, both in my free time and as a part of my formal education. 
 
 The first spark that led me to explore the beauty and mysteries of this field was ignited when I started participating in a modelling club, constructing working models of planes. Even then, I was fascinated by how mechanics and physics of these models work. Trying out different construction materials and various methods added another dimension to that interest. My passion for my future field was undoubtedly influenced by my love of origami, solving and creating ciphers, and science fiction literature and films.
