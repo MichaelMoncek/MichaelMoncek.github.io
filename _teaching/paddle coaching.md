@@ -1,10 +1,10 @@
 ---
 title: "Paddle coaching"
 collection: teaching
-type: "Workshop"
+type: "coaching"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
+venue: "Dětská vodácká skupina Šán"
+date: 2017
 location: "Prague, Czech Republic"
 ---
 
