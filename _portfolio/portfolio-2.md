@@ -1,6 +1,6 @@
 ---
 title: "Music"
-excerpt: Music is one of my greatest passions. I love to listen to the Greats such as Sergei Rachmaninoff, Gustav Mahler, John Williams and Thomas Bergersen. <br/><img src='/images/500x300.png'>"
+excerpt: Music is my faithful companion whether it is studying, relaxing or having fun. The path to it led through my favorite genre of movie soundtracks and led me to listening to (not only) classical music and playing the transverse flute. I am curently member of a choir both as a singer and a flute player. Music helps me refine my thoughts, solve problems and focus. <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
