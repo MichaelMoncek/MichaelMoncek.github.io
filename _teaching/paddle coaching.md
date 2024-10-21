@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Paddle teaching"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University 1, Department"
 date: 2015-01-01
-location: "City, Country"
+location: "Prague, Czech Republic"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I have couched many scouts riding on white water. I am an Instructor of canoeing and water tourism up to WWII difficulty.
 
 Heading 1
 ======
