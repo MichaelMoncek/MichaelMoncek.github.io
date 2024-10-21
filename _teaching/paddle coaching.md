@@ -4,7 +4,7 @@ collection: teaching
 type: "coaching"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Dětská vodácká skupina Šán"
-date: 2017
+date: 2017-01-01
 location: "Prague, Czech Republic"
 ---
 
