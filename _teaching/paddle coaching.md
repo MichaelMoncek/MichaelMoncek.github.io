@@ -10,11 +10,3 @@ location: "Prague, Czech Republic"
 
 I have couched many scouts riding on white water. I am an Instructor of canoeing and water tourism up to WWII difficulty.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
