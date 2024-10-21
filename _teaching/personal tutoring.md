@@ -1,5 +1,5 @@
 ---
-title: "Personal tutor"
+title: "Personal tutoring"
 collection: teaching
 type: "Personal tutoring"
 permalink: /teaching/2014-spring-teaching-1
