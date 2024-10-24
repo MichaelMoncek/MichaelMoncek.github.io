@@ -6,8 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<a href="Michael_Monček_CV.pdf" target="_blank">Download my CV</a>
-
 {% include base_path %}
 
 Education
@@ -41,3 +39,5 @@ Computer skills
 Service and leadership
 ======
 * 8 years as a scout leader, organizing summer camps and events for up to 80 people
+
+<a href="Michael_Moncek_CV.pdf" target="_blank"><h2>Download my CV</h2></a>
