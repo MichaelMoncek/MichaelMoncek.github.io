@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[Download my CV](files/cv.pdf)
+[Download my CV](files/Michael_Moncek_CV.pdf)
 
 {% include base_path %}
 
