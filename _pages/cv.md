@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+<a href="Michael_Monček_CV.pdf" target="_blank">Download my CV</a>
 
 {% include base_path %}
 
@@ -18,7 +19,7 @@ Work experience
 ======
 * Private math and physics tutor 
 * Web development 
- 
+
 Skills
 ======
 * Languages
@@ -32,7 +33,7 @@ Computer skills
 * Programming languages
   * Python, Julia, C#, Matlab, HTML
 * Programs / Frameworks
-  * LaTeX, GIT, GIMP
+  * LaTeX, Git, GIMP
 * Operating systems
   * Linux, Windows
 
