@@ -8,6 +8,4 @@ date: 2026-04-13
 location: "Prague, Czech Republic"
 ---
 
-Talk presenting the SHTC-SPH approach to fluid–structure interaction from my bachelor's thesis. [Slides (PDF)](https://michaelmoncek.github.io/files/talks/modelling_fsi_shtc_sph.pdf)
-
-<img src="/images/fireworks.gif" alt="SPH simulation of fireworks" style="max-width:600px">
+Talk presenting the SHTC-SPH approach to fluid–structure interaction from my bachelor's thesis. [Slides (PDF)](https://michaelmoncek.github.io/files/talks/modelling_fsi_shtc_sph.pdf) <br/><br/><img src="/images/fireworks.gif" alt="SPH simulation of fireworks" style="max-width:600px">
